@@ -1,3 +1,6 @@
+:root {
+    --sombra: 2px 3px 10px black;
+}
 html {
     height: 100%;
     margin: 0;
@@ -25,36 +28,37 @@ header h1{
     text-align: center;
     border-radius: 10px;
     padding: 7px;
-    box-shadow: 2px 3px 2px black;
+    box-shadow: var(--sombra);
     font-size: 3rem;
 
 }
 
 .container {
-  position: relative;
-  border-radius: 50%; 
-  box-shadow: 2px 3px 2px black; 
-  width: 250px;
+    position: relative;
+    border-radius: 50%; 
+    box-shadow: var(--sombra); 
+    max-width: 250px;
+    margin-inline: 50px;
 }
 
 .image {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 50%;
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
 }
 
 .overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
 
 }
 
@@ -63,16 +67,16 @@ header h1{
   }
 
 .text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-  padding: 10px;
-  font-size: 2rem;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
 }
 main{
     display: flex;
@@ -99,7 +103,7 @@ main{
     min-height: 100px;
     background-color: white;
     border-radius: 10px;
-    box-shadow: 2px 3px 2px black;
+    box-shadow: var(--sombra);
     margin: 5px;
 
 }
@@ -124,8 +128,7 @@ main{
     font-size: 1.5rem;
 }
 footer{
-  padding-left: 10px;
-  padding-right: 10px;
+    padding-inline: 10px;
 }
 footer h1{
   margin: 0px;
