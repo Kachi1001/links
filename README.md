@@ -1,5 +1,5 @@
 # Menu de links
-Site para disponibilizar metodos de me encontra na internet.
+Site para disponibilizar links para alguma coisa minha(informação, rede social, meio de comunicação etc...)
 
 Alguns metodos:
 
@@ -11,3 +11,4 @@ Alguns metodos:
   
  🚫Cv online;
 
+ 
