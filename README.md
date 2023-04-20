@@ -9,6 +9,10 @@ Alguns links:
   
  🚫Linkedin;  
   
- 🚫Cv online;
+ 🚫Curriculo online;
+ 
+ 🚫Instagram;
+ 
+ 🚫Portfolio;
 
  
