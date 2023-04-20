@@ -125,3 +125,12 @@ main{
     font-size: 1.5rem;
 }
 
+footer h1{
+  margin: 0px;
+  color: darkred;
+  /* background-color: white;
+  text-align: center;
+  border-radius: 10px;
+  padding: 7px;
+  box-shadow: 2px 3px 2px black; */
+}
