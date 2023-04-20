@@ -76,12 +76,9 @@ header h1{
 }
 main{
     display: flex;
-    /* flex-direction: row; */
     flex-wrap: wrap;
     padding: 10px;
     justify-content: center;
-    /* align-items: center;
-    height: 100vh; */
     margin: 0;
 }
 
@@ -124,13 +121,12 @@ main{
     justify-content: center;
     font-size: 1.5rem;
 }
-
+footer{
+  padding-left: 10px;
+  padding-right: 10px;
+}
 footer h1{
   margin: 0px;
   color: darkred;
-  /* background-color: white;
   text-align: center;
-  border-radius: 10px;
-  padding: 7px;
-  box-shadow: 2px 3px 2px black; */
 }
