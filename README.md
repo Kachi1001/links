@@ -5,7 +5,7 @@ Alguns metodos:
 
  🚫Whatsapp; 
   
- ✅ Github; 
+ ✅Github; 
   
  🚫Linkedin;  
   
