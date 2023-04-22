@@ -3,7 +3,7 @@ Site para disponibilizar links para alguma coisa minha(informação, rede social
 
 Alguns links:
 
- 🚫Whatsapp; 
+ ✅Whatsapp; 
   
  ✅Github; 
   
@@ -11,7 +11,7 @@ Alguns links:
   
  🚫Curriculo online;
  
- 🚫Instagram;
+ ✅Instagram;
  
  🚫Portfolio;
 
