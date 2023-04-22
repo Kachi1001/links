@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-image: linear-gradient(to top, #db8f3d, #A31D92, #DC8F3F);
+    background-image: linear-gradient(to top, #A31D92, #DC8F3F);
     height: 100%;
     margin: 0;
 }
