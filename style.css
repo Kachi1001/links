@@ -92,7 +92,7 @@ main{
     flex-wrap: wrap;
     margin: 0;
     flex-direction: row;
-    align-items: center;
+    align-content: center;
   }
 .sessao{
     display: flex;
