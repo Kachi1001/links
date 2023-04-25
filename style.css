@@ -109,13 +109,14 @@ main{
     justify-content: center;
     align-items: center;
     max-width: 150px;
-    min-width: 150px;
+    min-width: 100px;
     max-height: 150px;
-    min-height: 150px;
+    min-height: 100px;
     background-color: white;
     border-radius: 10px;
     box-shadow: var(--sombra);
     margin: 5px;
+    padding: 15px;
 
 }
 .redesocial .overlay{
