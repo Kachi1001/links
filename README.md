@@ -7,7 +7,7 @@ Alguns links:
   
  ✅Github; 
   
- 🚫Linkedin;  
+ ✅Linkedin;  
   
  🚫Curriculo online;
  
